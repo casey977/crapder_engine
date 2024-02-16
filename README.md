@@ -1,2 +1,2 @@
 # crapder_engine
-Your open source shitty dating app.
+Freely host your own shitty dating app. we don't care, just don't eat out potato chips.
